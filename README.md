@@ -113,7 +113,7 @@ A simple jekyll setup to host a resume on Github Pages
 
 # Authors and Acknowledgements
 - Vinh Tran - Created the blank template
-- Stuart - for reviewing this document
+- Stewart Wilcox - for reviewing this document
 
 
 # FAQ
