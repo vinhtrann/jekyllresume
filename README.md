@@ -11,6 +11,7 @@ A simple jekyll setup to host a resume on Github Pages
 - Jekyll
     - Confirm with ``` jekyll -v ``` in a terminal
 - Git
+    - Confirm with ``` git --version ``` in a terminal
 - A Text Editor
 - A Github account
 
