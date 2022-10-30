@@ -1,11 +1,26 @@
-1) Purpose/Title
+# Host resume on Github Pages
 
-2) Prerequisites
+### [Demo Website](https://vinhtrann.github.io/jekyllresume/)
 
-3) Instructions
+A simple jekyll setup to host a resume on Github Pages
 
-4) more Resoruces
+# Prerequisites
+- A resume formatted using markdown
+- Ruby installed
+- Jekyll installed
+- Git installed
+- A Text Editor
+- A Github account
 
-5) Authors and Acknowledgements
+# Instructions
+1. Fork the repository
 
-6) FAQs
+
+# More Resources
+
+
+# Authors and Acknowledgements
+
+
+# FAQ
+
