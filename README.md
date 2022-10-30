@@ -8,9 +8,9 @@ A simple jekyll setup to host a resume on Github Pages
 - A resume formatted in markdown
 - Ruby installed
     - Check by running ``` ruby -v ``` in a terminal
-- Jekyll
+- Jekyll installed
     - Check by running ``` jekyll -v ``` in a terminal
-- Git
+- Git installed
     - Check by running ``` git --version ``` in a terminal
 - A Text Editor
 - A Github account
