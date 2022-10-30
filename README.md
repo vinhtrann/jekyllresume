@@ -6,8 +6,10 @@ A simple jekyll setup to host a resume on Github Pages
 
 # Prerequisites
 - A resume formatted in markdown
-- Ruby
+- Ruby installed
+    - Confirm with ``` ruby -v ``` in a terminal
 - Jekyll
+    - Confirm with ``` jekyll -v ``` in a terminal
 - Git
 - A Text Editor
 - A Github account
@@ -24,6 +26,7 @@ A simple jekyll setup to host a resume on Github Pages
  
 #### Clone the repository
  3. Open a terminal  
+       - Windows and MacOS both come with a terminal pre-installed
        - Command prompt for windows, and the Terminal app on MacOS
  4. Navigate to the directory where you want the repository saved
        - Directory navigation is platform dependent
@@ -98,6 +101,9 @@ A simple jekyll setup to host a resume on Github Pages
 [Command line file navigation (Windows)](https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/)  
 [Command line file navigation (MacOS)](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html)  
 [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
+[Jekyll Installation](https://jekyllrb.com/docs/installation/)  
+[Git Installation](https://docs.github.com/en/get-started/quickstart/set-up-git)  
+[Ruby Installation](https://www.ruby-lang.org/en/documentation/installation/)  
 
 
 # Authors and Acknowledgements
