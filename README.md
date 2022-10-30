@@ -20,7 +20,7 @@ A simple jekyll setup to host a resume on Github Pages
  2. Modify the settings as you see fit and create the new fork  
  ![image](https://user-images.githubusercontent.com/64811274/198891396-a3870ab6-3034-438d-aec9-4a720fae87e5.png)
       - You should have a new repository listed under your github account now  
-      - This step relates to the concept of cataloging the difference from Etter's Book. By creating a repository, it creates a log of all the changes made to the resume. If you wanted to view the state of your resume 6 months ago it would be possible thanks to version control.
+      - This step relates to the concept of cataloging the difference from Etter's Book. By creating a repository, it creates a log of all the changes made to the resume. If you wanted to view the state of your resume 6 months ago, it would be possible thanks to version control.
  
 #### Clone the repository
  3. Open a terminal  
