@@ -7,11 +7,11 @@ A simple jekyll setup to host a resume on Github Pages
 # Prerequisites
 - A resume formatted in markdown
 - Ruby installed
-    - Confirm with ``` ruby -v ``` in a terminal
+    - Check by running ``` ruby -v ``` in a terminal
 - Jekyll
-    - Confirm with ``` jekyll -v ``` in a terminal
+    - Check by running ``` jekyll -v ``` in a terminal
 - Git
-    - Confirm with ``` git --version ``` in a terminal
+    - Check by running ``` git --version ``` in a terminal
 - A Text Editor
 - A Github account
 
@@ -95,6 +95,10 @@ A simple jekyll setup to host a resume on Github Pages
        - The site will now be accessible from https://[Github username].github.io/[repositoryname]   
    Example: https://vinhtrann.github.io/jekyllresume/
        - This step relates to the concept and benefits of building a website from Etter's book. By hosting a resume online, this will guarantee that anyone viewing it will have the most up to date version versus if you distributed pdf copies of your resume. The pdf copies of the resume will eventually grow stale.
+       
+## Example of accessing the newly created web page
+![Animation](https://user-images.githubusercontent.com/64811274/198899492-96a36722-e885-4bfc-9159-c599b0f8ec76.gif)
+
 
 
 # More Resources
