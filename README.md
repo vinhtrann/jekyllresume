@@ -58,7 +58,8 @@ A simple jekyll setup to host a resume on Github Pages
   ```
    Example:  
   ![image](https://user-images.githubusercontent.com/64811274/198893506-a2e58448-945e-4622-9ad5-e3d50145fffd.png)  
-  10. Save the changes
+  
+   10. Save the changes
 
   #### Build the static site using jekyll  
    11. Enter the following command into the command line
