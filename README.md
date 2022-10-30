@@ -39,7 +39,7 @@ A simple jekyll setup to host a resume on Github Pages
  ```
  git clone https://github.com/[GITHUB USERNAME]/[REPOSITORY NAME].git
  ```
- - For example:
+ For example
  ```
  git clone https://github.com/vinhtrann/jekyllresume.git
  ```
@@ -49,7 +49,7 @@ A simple jekyll setup to host a resume on Github Pages
       - The default index is a copy of a sample resume
   7. Place the resume in the root directory
   8. Rename the resume to index.md
-  9. Modify index.md to include the following front matter block at the beginning
+  9. Modify index.md to include the following front matter block at the beginning of the file
   
   ```
   ---
@@ -57,7 +57,7 @@ A simple jekyll setup to host a resume on Github Pages
   ---
   ```
    Example:  
-  ![image](https://user-images.githubusercontent.com/64811274/198893506-a2e58448-945e-4622-9ad5-e3d50145fffd.png)
+  ![image](https://user-images.githubusercontent.com/64811274/198893506-a2e58448-945e-4622-9ad5-e3d50145fffd.png)  
   10. Save the changes
 
   #### Build the static site using jekyll  
@@ -88,7 +88,7 @@ A simple jekyll setup to host a resume on Github Pages
        - This is located towards the top of the web page, just under the github user and repository name.
    ![image](https://user-images.githubusercontent.com/64811274/198894207-3a2cb6d8-083d-4993-b321-a569966007f7.png)
    16. Navigate to pages on the left  
-       - Located under the code and automation section
+       - Located under the code and automation section  
    ![image](https://user-images.githubusercontent.com/64811274/198894506-0bac759b-9755-4547-9e0f-ff46caf2aadb.png)  
    17. Select the main branch and hit save
    ![image](https://user-images.githubusercontent.com/64811274/198894543-927ad311-c589-4b0a-bb82-b26cc0e226af.png)
