@@ -10,11 +10,11 @@ A simple jekyll setup to host a markdown resume on Github Pages
 - A Github account
     - If you do not have an account yet, you can create one [here](https://github.com/join)  
 - Ruby installed
-    - Check by running ``` ruby -v ``` in a terminal
+    - Check by running ``` ruby -v ``` in a terminal or by checking if it is installed
 - Jekyll installed
-    - Check by running ``` jekyll -v ``` in a terminal
+    - Check by running ``` jekyll -v ``` in a terminal or by checking if it is installed
 - Git installed and linked to your github account
-    - Check by running ``` git --version ``` in a terminal
+    - Check by running ``` git --version ``` in a terminal or by checking if it is installed
     - [Link your account](https://kbroman.org/github_tutorial/pages/first_time.html)  
 - A Text Editor
     - Recommendation: [Notepad++](https://notepad-plus-plus.org/)
@@ -22,12 +22,12 @@ A simple jekyll setup to host a markdown resume on Github Pages
 # Instructions
 #### Fork the repository  
  1. Press the Fork button at the top right of the webpage  
-     - This will create a separate version of the repository that will be attached to your github account. It it will have its own history separate from any other repository  
+     - This will create a separate version of the repository that will be attached to your github account. It will have its own history separate from any other repository  
  ![image](https://user-images.githubusercontent.com/64811274/199124259-1d521c41-10a9-4a91-8fd7-26c7c3b5288b.png)
  2. Modify the repository name and description as you see fit
  ![image](https://user-images.githubusercontent.com/64811274/198891396-a3870ab6-3034-438d-aec9-4a720fae87e5.png)
       - There should be a new repository created and listed under the github account that forked the repository
-      - This step relates to the concept of cataloging the difference from Etter's Book. By using distributed version control by creating a repository, a log of all the changes made to the resume will be recorded. Instead of storing multiple copies of your resume with timestamps, you could look into the past to view an old version of the resume.
+      - This step relates to the concept of cataloging the difference from Etter's Book. By using distributed version control and creating a repository, a log of all the changes made to the resume will be recorded. Instead of storing multiple copies of your resume with timestamps, you could look into the past to view an old version of the resume.
  
 #### Clone the repository
  3. Open a terminal  
@@ -75,7 +75,7 @@ A simple jekyll setup to host a markdown resume on Github Pages
    Example:  
   ![image](https://user-images.githubusercontent.com/64811274/198893506-a2e58448-945e-4622-9ad5-e3d50145fffd.png)  
   
-   10. Save the changes
+   10. Save the changes to the file
 
   #### Build the static site using jekyll  
    11. Enter the following command into the command line
