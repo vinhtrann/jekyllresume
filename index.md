@@ -3,7 +3,10 @@ layout: resume
 ---
 
 # Vinh Tran
-tranv@myumanitoba.ca <br> mobile: (204) 555-5555 <br>
+
+## Contact
+email: tranv@myumanitoba.ca  
+mobile: (204) 555-5555 <br>
 ## Education
 
 **University of Manitoba (08/2016 - 12/2022)**   
