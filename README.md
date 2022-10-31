@@ -113,7 +113,7 @@ A simple jekyll setup to host a resume on Github Pages
 
 
 # Authors and Acknowledgements
-- Vinh Tran - Created the blank template
+- Vinh Tran
 - Stewart Wilcox - for reviewing this document
 - [Casual Writer](https://github.com/casualwriter/casual-markdown-cv) - For the resume styling
 
