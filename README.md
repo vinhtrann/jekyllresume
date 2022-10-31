@@ -2,7 +2,7 @@
 
 ### [Demo Website](https://vinhtrann.github.io/jekyllresume/)
 
-A simple jekyll setup to host a resume on Github Pages
+A simple jekyll setup to host a markdown resume on Github Pages
 
 # Prerequisites
 - A resume formatted in markdown
@@ -23,7 +23,7 @@ A simple jekyll setup to host a resume on Github Pages
 #### Fork the repository  
  1. Press the Fork button at the top right of the webpage  
      - This will create a separate version of the repository that will be attached to your github account. It it will have its own history separate from any other repository  
- ![image](https://user-images.githubusercontent.com/64811274/198891278-2046a31e-f5c7-4b98-9d94-521b6467e07d.png)  
+ ![image](https://user-images.githubusercontent.com/64811274/199124259-1d521c41-10a9-4a91-8fd7-26c7c3b5288b.png)
  2. Modify the repository name and description as you see fit
  ![image](https://user-images.githubusercontent.com/64811274/198891396-a3870ab6-3034-438d-aec9-4a720fae87e5.png)
       - There should be a new repository created and listed under the github account that forked the repository
